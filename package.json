@@ -1,0 +1,30 @@
+{
+  "name": "sort-arrays-array",
+  "version": "1.0.0",
+  "description": "This tiny and fast module performs the sort of an Array of arrays with the field defined. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdacjs/sort-arrays-array.git"
+  },
+  "keywords": [
+    "sort",
+    "arrays",
+    "array"
+  ],
+  "author": "Juan Convers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdacjs/sort-arrays-array/issues"
+  },
+  "homepage": "https://github.com/webdacjs/sort-arrays-array#readme",
+  "devDependencies": {
+    "jest": "24.9.0"
+  },
+  "dependencies": {
+    "console-hue": "1.0.2"
+  }
+}
