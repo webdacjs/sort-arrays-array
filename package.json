@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/webdacjs/sort-arrays-array#readme",
   "devDependencies": {
-    "jest": "24.9.0"
+    "jest": "29.7.0"
   },
   "dependencies": {
     "console-hue": "1.0.3"
